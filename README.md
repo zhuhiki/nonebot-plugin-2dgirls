@@ -1,0 +1,2 @@
+# nonebot-plugin-2dgirls
+基于nonebot的一个简单的随机从网上返回一张二次元美少女的图片的插件
